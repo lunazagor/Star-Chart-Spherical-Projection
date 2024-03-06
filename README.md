@@ -1,6 +1,6 @@
 # Star-Chart-Spherical-Projection
 
-NOTE ABOUT THE FORK: this fork differs from the original in the contents of star_data.csv.
+NOTE ABOUT THE FORK: this fork differs from the original in the contents of star_data.csv. This now contains a larger number of objects indexed by their Hipparcos number taken from [here](https://www.kaggle.com/datasets/konivat/hipparcos-star-catalog?resource=download). 
 
 ![PyPi](https://img.shields.io/pypi/v/star-chart-spherical-projection)
 ![license](https://img.shields.io/github/license/cyschneck/Star-Chart-Spherical-Projection)
