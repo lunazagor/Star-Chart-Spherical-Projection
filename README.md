@@ -1,5 +1,7 @@
 # Star-Chart-Spherical-Projection
 
+NOTE ABOUT THE FORK: this fork differs from the original in the contents of star_data.csv.
+
 ![PyPi](https://img.shields.io/pypi/v/star-chart-spherical-projection)
 ![license](https://img.shields.io/github/license/cyschneck/Star-Chart-Spherical-Projection)
 [![pytests](https://github.com/cyschneck/Star-Chart-Spherical-Projection/actions/workflows/pytests.yml/badge.svg?branch=main)](https://github.com/cyschneck/Star-Chart-Spherical-Projection/actions/workflows/pytests.yml)
